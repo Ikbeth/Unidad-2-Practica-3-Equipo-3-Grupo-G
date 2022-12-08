@@ -1,9 +1,9 @@
 # DESARROLLO DE ENTORNOS DE REALIDAD VIRTUAL - UNIDAD 2
 
 Integrantes del EQUIPO 3:
-	Aquino Martinez Ehivy Angel
-	Armendariz Sanchez Hafid Azeem
-	Carrera Castillo German Enrique
-	Hernandez Duran Alberto Misael
-	Latofski Moreno Hilda Lizbeth
-	Lopez Godoy Carlos Emmanuel
+	1. Aquino Martinez Ehivy Angel
+	2. Armendariz Sanchez Hafid Azeem
+	3. Carrera Castillo German Enrique
+	4. Hernandez Duran Alberto Misael
+	5. Latofski Moreno Hilda Lizbeth
+	6. Lopez Godoy Carlos Emmanuel
